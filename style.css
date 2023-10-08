@@ -8,7 +8,8 @@
 }
 
 body {
-  background-image:url(https://wallpaperaccess.com/full/632832.png);
+  background-image:url(https://media.discordapp.net/attachments/1123262899859763303/1160513231991869481/3ZNjUAAAAAElFTkSuQmCC.png?ex=6534ef2b&is=65227a2b&hm=5c24d1f2937caf5f8b3cf1bd2b05bcd0bde3f19c14c85fd087714f65ab371725&=&width=1245&height=700);
+  background-size: cover;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -153,7 +154,7 @@ button:disabled, button[disabled] {
 
 #image-grid img {
   max-width: 100%;
-  border-radius: 10px;
+  border-radius: 7px;
   cursor: pointer;
   border: 2px solid transparent;
   transition: all 0.3s ease;
